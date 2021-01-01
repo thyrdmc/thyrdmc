@@ -31,7 +31,7 @@ I'm a student of Manisa Celal Bayar University Computer Engineering 🚀 departm
 - 🌱 I’m currently learning Artificial Neural Network 🤖 and Computer Network Programming 🖧; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@mthyrdmc](https://twitter.com/mthyrdmc);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📝[Resume](https://github.com/thyrdmc)
 
 **Languages and Tools:**  
 
