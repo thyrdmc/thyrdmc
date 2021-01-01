@@ -54,14 +54,15 @@ Django     54 mins         █████▓░░░░░░░░░░░�
 C#         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
+<!--
+🚧 **My TodoList Stats:**
 <!-- TODO-LIST:START -->
 🏆  6,630 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 499 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-LIST:END -->
+-->
 
 
 📈 My GitHub Stats
