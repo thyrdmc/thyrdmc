@@ -23,7 +23,7 @@
 Hi, I'm Mehmet Taha Yardımcı. 
 I'm a student of Celal Bayar University Computer Engineering 🚀 from Manisa.
 
-  <img align="right" alt="GIF" src=![](code.gif) />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/62545306/103440315-7ee80c80-4c55-11eb-9a25-f85dca7fcabf.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
