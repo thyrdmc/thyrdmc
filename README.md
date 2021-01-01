@@ -7,7 +7,7 @@
   <img align="left" alt="Taha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/thyrdmc/">
-  <img align="left" alt="Taha's Instagram Account" width="22px" src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />
+  <img align="left" alt="Taha's Instagram Account"  src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />
 </a>
 <a href="mailto:mtyardimci45@gmail.com "> 
   <img align="left" alt="Gmail" width="22px" src="https://camo.githubusercontent.com/9734318df1bd17dac8b2a6b4f88684ced60f41394aa38df3c72a0510af8b69a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f676d61696c2e706e67" />
